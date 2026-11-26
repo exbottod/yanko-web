@@ -1,1 +1,0 @@
-import{A as e,k as t}from"./Pengaturan-QTV7V-G2.js";import{t as n}from"./AdminMount-6AQ4TclS.js";var r=e(),i=t();(0,r.createRoot)(document.getElementById(`panel`)).render((0,i.jsx)(n,{}));

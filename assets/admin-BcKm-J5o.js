@@ -1,0 +1,1 @@
+import{A as e,k as t}from"./Pengaturan-BHEhM6DD.js";import{t as n}from"./AdminMount-BIdcO89L.js";var r=e(),i=t();(0,r.createRoot)(document.getElementById(`panel`)).render((0,i.jsx)(n,{}));
